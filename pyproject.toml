@@ -3,6 +3,7 @@ name = "hahaton"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "fiona>=1.10.1",
     "geopandas>=1.2.0",
     "ipykernel>=7.4.0",
     "pyogrio>=0.13.0",
